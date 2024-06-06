@@ -7,6 +7,6 @@ Soy ingeniero en sistemas con experiencia en el desarrollo de aplicaciones utili
 - 👯 Estoy buscando colaborar en proyectos de código abierto y contribuir a la comunidad.
 - 💬 Pregúntame sobre .NET, C#, Java, HTML, CSS, JavaScript, Angular y otras tecnologías web.
 - 📫 Cómo contactarme: 
-  - [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alvaro-k%C3%BA-b096a3244/))
+  -  [LinkedIn](https://www.linkedin.com/in/alvaro-k%C3%BA-b096a3244/)
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si deseas colaborar en algún proyecto o simplemente charlar sobre tecnología.
